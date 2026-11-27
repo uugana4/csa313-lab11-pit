@@ -1,0 +1,47 @@
+total: 63 | survived: 46
+L20 | SURVIVED | letterGrade | ConditionalsBoundaryMutator | changed conditional boundary
+L20 | SURVIVED | letterGrade | ConditionalsBoundaryMutator | changed conditional boundary
+L23 | SURVIVED | letterGrade | ConditionalsBoundaryMutator | changed conditional boundary
+L23 | SURVIVED | letterGrade | EmptyObjectReturnValsMutator | replaced return value with "" for mn/edu/must/sqat/ScholarshipCalculator::letterGrade
+L23 | SURVIVED | letterGrade | RemoveConditionalMutator_ORDER_ELSE | removed conditional - replaced comparison check with false
+L23 | SURVIVED | letterGrade | RemoveConditionalMutator_ORDER_IF | removed conditional - replaced comparison check with true
+L24 | SURVIVED | letterGrade | ConditionalsBoundaryMutator | changed conditional boundary
+L24 | SURVIVED | letterGrade | EmptyObjectReturnValsMutator | replaced return value with "" for mn/edu/must/sqat/ScholarshipCalculator::letterGrade
+L24 | SURVIVED | letterGrade | RemoveConditionalMutator_ORDER_ELSE | removed conditional - replaced comparison check with false
+L24 | SURVIVED | letterGrade | RemoveConditionalMutator_ORDER_IF | removed conditional - replaced comparison check with true
+L25 | SURVIVED | letterGrade | ConditionalsBoundaryMutator | changed conditional boundary
+L25 | SURVIVED | letterGrade | EmptyObjectReturnValsMutator | replaced return value with "" for mn/edu/must/sqat/ScholarshipCalculator::letterGrade
+L25 | SURVIVED | letterGrade | RemoveConditionalMutator_ORDER_ELSE | removed conditional - replaced comparison check with false
+L25 | SURVIVED | letterGrade | RemoveConditionalMutator_ORDER_IF | removed conditional - replaced comparison check with true
+L26 | SURVIVED | letterGrade | ConditionalsBoundaryMutator | changed conditional boundary
+L26 | SURVIVED | letterGrade | EmptyObjectReturnValsMutator | replaced return value with "" for mn/edu/must/sqat/ScholarshipCalculator::letterGrade
+L26 | SURVIVED | letterGrade | RemoveConditionalMutator_ORDER_ELSE | removed conditional - replaced comparison check with false
+L26 | SURVIVED | letterGrade | RemoveConditionalMutator_ORDER_IF | removed conditional - replaced comparison check with true
+L27 | SURVIVED | letterGrade | EmptyObjectReturnValsMutator | replaced return value with "" for mn/edu/must/sqat/ScholarshipCalculator::letterGrade
+L36 | SURVIVED | gpa | SwitchMutator | Changed switch default to be first case
+L38 | SURVIVED | gpa | MathMutator | Replaced double addition with subtraction
+L40 | SURVIVED | gpa | MathMutator | Replaced double addition with subtraction
+L44 | SURVIVED | gpa | PrimitiveReturnsMutator | replaced double return with 0.0d for mn/edu/must/sqat/ScholarshipCalculator::gpa
+L48 | SURVIVED | scholarship | ConditionalsBoundaryMutator | changed conditional boundary
+L48 | SURVIVED | scholarship | ConditionalsBoundaryMutator | changed conditional boundary
+L48 | SURVIVED | scholarship | RemoveConditionalMutator_ORDER_IF | removed conditional - replaced comparison check with true
+L51 | SURVIVED | scholarship | RemoveConditionalMutator_EQUAL_ELSE | removed conditional - replaced equality check with false
+L51 | SURVIVED | scholarship | RemoveConditionalMutator_EQUAL_IF | removed conditional - replaced equality check with true
+L52 | SURVIVED | scholarship | ConditionalsBoundaryMutator | changed conditional boundary
+L52 | SURVIVED | scholarship | ConditionalsBoundaryMutator | changed conditional boundary
+L52 | SURVIVED | scholarship | PrimitiveReturnsMutator | replaced int return with 0 for mn/edu/must/sqat/ScholarshipCalculator::scholarship
+L52 | SURVIVED | scholarship | RemoveConditionalMutator_ORDER_ELSE | removed conditional - replaced comparison check with false
+L52 | SURVIVED | scholarship | RemoveConditionalMutator_ORDER_ELSE | removed conditional - replaced comparison check with false
+L52 | SURVIVED | scholarship | RemoveConditionalMutator_ORDER_IF | removed conditional - replaced comparison check with true
+L52 | SURVIVED | scholarship | RemoveConditionalMutator_ORDER_IF | removed conditional - replaced comparison check with true
+L53 | SURVIVED | scholarship | ConditionalsBoundaryMutator | changed conditional boundary
+L53 | SURVIVED | scholarship | ConditionalsBoundaryMutator | changed conditional boundary
+L53 | SURVIVED | scholarship | PrimitiveReturnsMutator | replaced int return with 0 for mn/edu/must/sqat/ScholarshipCalculator::scholarship
+L53 | SURVIVED | scholarship | RemoveConditionalMutator_ORDER_ELSE | removed conditional - replaced comparison check with false
+L53 | SURVIVED | scholarship | RemoveConditionalMutator_ORDER_ELSE | removed conditional - replaced comparison check with false
+L53 | SURVIVED | scholarship | RemoveConditionalMutator_ORDER_IF | removed conditional - replaced comparison check with true
+L53 | SURVIVED | scholarship | RemoveConditionalMutator_ORDER_IF | removed conditional - replaced comparison check with true
+L54 | SURVIVED | scholarship | ConditionalsBoundaryMutator | changed conditional boundary
+L54 | SURVIVED | scholarship | PrimitiveReturnsMutator | replaced int return with 0 for mn/edu/must/sqat/ScholarshipCalculator::scholarship
+L54 | SURVIVED | scholarship | RemoveConditionalMutator_ORDER_ELSE | removed conditional - replaced comparison check with false
+L54 | SURVIVED | scholarship | RemoveConditionalMutator_ORDER_IF | removed conditional - replaced comparison check with true
