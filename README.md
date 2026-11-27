@@ -7,9 +7,9 @@
 ## Орчин
 
 ~~~text
-openjdk version "25.0.2" 2026-01-20
-OpenJDK Runtime Environment Homebrew (build 25.0.2)
-OpenJDK 64-Bit Server VM Homebrew (build 25.0.2, mixed mode, sharing)
+openjdk version "17.0.21.1" 2026-11-17
+OpenJDK Runtime Environment Homebrew (build 17.0.21.1+0)
+OpenJDK 64-Bit Server VM Homebrew (build 17.0.21.1+0, mixed mode, sharing)
 Apache Maven 3.10.2 (61b8bc355f4c4325463c22aa9afe4e7811a290f8)
 Maven home: /opt/homebrew/Cellar/maven/3.10.2/libexec
 Java version: 17.0.21.1, vendor: Homebrew, runtime: /opt/homebrew/Cellar/openjdk@17/17.0.21.1/libexec/openjdk.jdk/Contents/Home
